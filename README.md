@@ -1,2 +1,3 @@
 # Leetcode_Database
-This are leetcode database solutions created from scratch offline, tried and tested and proven to functional.
+These are leetcode database solutions created from scratch offline, tried, tested and proven to give  the best results
+.
